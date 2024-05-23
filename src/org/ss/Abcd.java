@@ -7,6 +7,10 @@ public class Abcd {
 		
 		String s1="bye";
 	     System.out.println(s1);
+	     
+	     String s2="good";
+	     System.out.println(s2);
+	     
 	}
 	
 }
